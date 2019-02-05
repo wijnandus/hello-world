@@ -142,7 +142,7 @@ body
 <script type="text/javascript" src="AJAX-ASYNC.js"></script>
 
 <script>
-// Global Variables:
+// Global Variables update 5 February 2019:
 
 function setCookie(cname, cvalue, exdays) {
      var d = new Date();
